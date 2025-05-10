@@ -1,0 +1,3 @@
+从 ghcr.io/hsjsb985/hajimi:latest
+暴露 7860
+合约制造部 ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "7860"]
